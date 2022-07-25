@@ -75,6 +75,3 @@ There are three ways to tell `grep` that you want special meaning on certain cha
 
    egrep '<([A-Za-z]*)>.*</\1>' tags.txt 
 ```
-
-
-
